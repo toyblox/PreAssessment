@@ -13,7 +13,7 @@ Instructions.txt contains the neccessary instructions for the first HTML/CSS cha
 Below is a list of coding challenges that increase in difficulty. Please finish as many as you are able to complete.
 When you finish each fiddle, click the 'update' button and that will create your own URL with your solution. Change the SOLUTION-URL with your new URL that contains the solution. Once you finish, zip up your code and email back to interviews@devmounta.in
 
-* [Name] - http://jsfiddle.net/U3ezV/ - SOLUTION-URL
+* [Name] - http://jsfiddle.net/U3ezV/ - http://jsfiddle.net/U3ezV/1066/
 * [Food] - http://jsfiddle.net/85Lp6mba/ - SOLUTION-URL
 * [Double] - http://jsfiddle.net/hu85B/ - SOLUTION-URL
 * [Addition] - http://jsfiddle.net/M8pZf/ - SOLUTION-URL
